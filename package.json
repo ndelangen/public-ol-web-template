@@ -168,7 +168,7 @@
     "moment-timezone": "0.5.26",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-intl-universal": "2.1.1",
+    "react-intl-universal": "2.1.2",
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
     "reflect-metadata": "0.1.13",
