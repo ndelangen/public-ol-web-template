@@ -21,7 +21,7 @@
     "@storybook/addon-notes": "5.1.1",
     "@storybook/addon-viewport": "5.1.1",
     "@storybook/addons": "5.1.1",
-    "@storybook/react": "5.1.1",
+    "@storybook/react": "5.1.9",
     "@svgr/webpack": "4.3.1",
     "@types/apollo-upload-client": "8.1.2",
     "@types/async": "3.0.0",
