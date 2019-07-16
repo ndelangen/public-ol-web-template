@@ -27,7 +27,7 @@
     "@types/async": "3.0.0",
     "@types/base-x": "3.0.0",
     "@types/classnames": "2.2.9",
-    "@types/enzyme": "3.10.2",
+    "@types/enzyme": "3.10.3",
     "@types/enzyme-adapter-react-16": "1.0.5",
     "@types/graphql": "14.2.2",
     "@types/jest": "24.0.15",
