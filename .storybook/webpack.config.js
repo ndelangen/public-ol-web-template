@@ -7,6 +7,6 @@ const custom = configFactory("storybook");
 
 module.exports = async ({config, mode}) => {
   const result =  {...config, module: {...config.module, rules: custom.module.rules}};
-  console.log(result);
+  console.dir(result, {depth: 20});
   return result;
 };
